@@ -1,0 +1,71 @@
+{
+"1": "~",
+"2": "~",
+
+"S": "{^}r{^}{PLOVER:TOGGLE_DICT:!search-fingerspell.json}",
+"T": "{^}i{^}{PLOVER:TOGGLE_DICT:!vim.json, \r\n!~/Documents/plover/steno/lapwing-base.json,\r\n!~/Documents/plover/steno/python.json,\r\n!~/Documents/plover/steno/user.json,\r\n!~/Documents/plover/steno/commands.json,\r\n!~/Documents/plover/steno/user.json,\r\n!main.json\r\n, !~/Documents/plover/steno/defaultToNull.py}",
+"P": "{^}a{^}{PLOVER:TOGGLE_DICT:!vim.json, \r\n!~/Documents/plover/steno/lapwing-base.json,\r\n!~/Documents/plover/steno/python.json,\r\n!~/Documents/plover/steno/user.json,\r\n!~/Documents/plover/steno/commands.json,\r\n!~/Documents/plover/steno/user.json,\r\n!main.json\r\n, !~/Documents/plover/steno/defaultToNull.py}",
+"H": "{^}o{^}{PLOVER:TOGGLE_DICT:!vim.json, \r\n!~/Documents/plover/steno/lapwing-base.json,\r\n!~/Documents/plover/steno/python.json,\r\n!~/Documents/plover/steno/user.json,\r\n!~/Documents/plover/steno/commands.json,\r\n!~/Documents/plover/steno/user.json,\r\n!main.json\r\n, !~/Documents/plover/steno/defaultToNull.py}",
+  "K": "{^}x{^}",
+  "W": "{^}d{^}",
+  "H*": "{^},{^}",
+  "R*": "{^};{^}",
+  "#": "{^}.{^}",
+  "A": "{^}y{^}",
+  "O": "{^}p{^}",
+
+  "E": "{#Control_L(i)}{^}",
+  "U": "{^}u{^}",
+
+
+  "*F": "{^}f{^}{PLOVER:TOGGLE_DICT:!search-fingerspell.json}",
+  "*R": "{^}t{^}{PLOVER:TOGGLE_DICT:!search-fingerspell.json}",
+
+
+  "-P": "{^}b{^}",
+  "-P": "{^}w{^}",
+  "-L": "{^}e{^}",
+  "-T": "{^}v{^}",
+  "-D": "{^}gd{^}",
+
+
+  "-B": "{^}h{^}",
+  "-B": "{^}j{^}",
+  "-G": "{^}k{^}",
+  "-S": "{^}l{^}",
+
+  "-Z": "{^}/{^}",
+
+
+  "KR": "{^}c{^}{PLOVER:TOGGLE_DICT:!vim.json, \r\n!~/Documents/plover/steno/lapwing-base.json,\r\n!~/Documents/plover/steno/python.json,\r\n!~/Documents/plover/steno/user.json,\r\n!~/Documents/plover/steno/commands.json,\r\n!~/Documents/plover/steno/user.json,\r\n!main.json\r\n, !~/Documents/plover/steno/defaultToNull.py}",
+
+  "SO": "{^}{#Shift_L(r)}{^}{PLOVER:TOGGLE_DICT:!search-fingerspell.json}",
+"TKPW": "{^}g{^}",
+"TO": "{^}{#Shift_L(i)}{^}",
+"KO": "{^}{#Shift_L(x)}",
+"PO": "{^}A{^}",
+"W-B": "2j",
+"HR-B": "6j",
+"HO": "{^}{#Shift_L(e)}{^}",
+"H-B": "9j",
+"OF": "{^}{#Shift_L(b)}{^}",
+"U": "{^}u{^}",
+"-R": "{^}h{^}",
+"-B": "{^}j{^}",
+"-BT": "{^}4j{^}",
+"-BTS": "{^}5j{^}",
+"-BTSDZ": "{^}6j{^}",
+"-BTD": "{^}9j{^}",
+"-BS": "{^}2j{^}",
+"-BSZ": "{^}3j{^}",
+"-BD": "{^}10j{^}",
+"-BDZ": "{^}8j{^}",
+"-BZ": "{^}4j{^}",
+"-L": "{^}e{^}",
+"-G": "{^}k{^}",
+"-GT": "{^}4k{^}",
+"-GTS": "{^}5k{^}",
+"-GS": "{^}2k{^}",
+"-GSZ": "{^)3k{^}",
+"-GZ": "{^}4k{^}"
+}
